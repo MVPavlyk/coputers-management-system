@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coputers-management-system/static/css/main.1a6ca9a5.css",
+    "main.js": "/coputers-management-system/static/js/main.22e56b4a.js",
+    "static/media/main-bg.jpg": "/coputers-management-system/static/media/main-bg.ad2bc05fd58900f0feab.jpg",
+    "index.html": "/coputers-management-system/index.html",
+    "static/media/add.svg": "/coputers-management-system/static/media/add.8fcb95be160c8a31b7acac27a026a75a.svg",
+    "main.1a6ca9a5.css.map": "/coputers-management-system/static/css/main.1a6ca9a5.css.map",
+    "main.22e56b4a.js.map": "/coputers-management-system/static/js/main.22e56b4a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a6ca9a5.css",
+    "static/js/main.22e56b4a.js"
+  ]
+}
